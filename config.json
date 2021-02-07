@@ -1,0 +1,11 @@
+{
+    "token": "token-goes-here",
+    "password": "password-goes-here",
+    "prefix": "prefix-here",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/souljaboy",
+    "tts_language": "en"
+}
